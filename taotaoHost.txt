@@ -1,0 +1,12 @@
+﻿127.0.0.1    manager.taotao.com
+127.0.0.1 	 www.taotao.manager.com
+127.0.0.1 	 www.taotao.com
+127.0.0.1    search.taotao.com
+127.0.0.1 	 item.taotao.com
+127.0.0.1 	 www.taotao.manager.com
+127.0.0.1 	 www.taotao.backsearch.com
+127.0.0.1 	 www.taotao.content.com
+127.0.0.1 	 www.taotao.portal.com
+127.0.0.1 	 sso.taotao.com
+127.0.0.1	 cart.taotao.com
+127.0.0.1	 order.taotao.com
