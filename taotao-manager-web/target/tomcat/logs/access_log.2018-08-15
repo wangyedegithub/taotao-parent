@@ -1,0 +1,10 @@
+0:0:0:0:0:0:0:1 - - [15/Aug/2018:20:03:45 +0800] "GET /queryNow HTTP/1.1" 404 949 http-bio-8081-exec-1 183
+0:0:0:0:0:0:0:1 - - [15/Aug/2018:20:03:46 +0800] "GET /favicon.ico HTTP/1.1" 404 949 http-bio-8081-exec-2 8
+0:0:0:0:0:0:0:1 - - [15/Aug/2018:20:03:46 +0800] "GET /favicon.ico HTTP/1.1" 404 949 http-bio-8081-exec-3 1
+0:0:0:0:0:0:0:1 - - [15/Aug/2018:20:06:24 +0800] "GET /queryNow HTTP/1.1" 404 949 http-bio-8081-exec-5 64
+0:0:0:0:0:0:0:1 - - [15/Aug/2018:20:07:29 +0800] "GET //test/queryNow HTTP/1.1" 404 949 http-bio-8081-exec-7 7
+0:0:0:0:0:0:0:1 - - [15/Aug/2018:20:11:46 +0800] "GET //test/queryNow HTTP/1.1" 404 949 http-bio-8081-exec-1 131
+0:0:0:0:0:0:0:1 - - [15/Aug/2018:22:40:54 +0800] "GET //test/queryNow HTTP/1.1" 500 23840 http-bio-8081-exec-1 1896
+0:0:0:0:0:0:0:1 - - [15/Aug/2018:22:40:56 +0800] "GET /favicon.ico HTTP/1.1" 500 23840 http-bio-8081-exec-2 197
+0:0:0:0:0:0:0:1 - - [15/Aug/2018:22:41:07 +0800] "GET /test/queryNow HTTP/1.1" 500 23840 http-bio-8081-exec-3 149
+0:0:0:0:0:0:0:1 - - [15/Aug/2018:22:41:10 +0800] "GET /test/queryNow HTTP/1.1" 500 23840 http-bio-8081-exec-4 144

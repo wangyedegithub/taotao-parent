@@ -1,0 +1,8 @@
+127.0.0.1 - - [19/Feb/2019:17:05:56 +0800] "GET /search.html?q=%E7%AC%94%E8%AE%B0%E6%9C%AC HTTP/1.0" 200 63275 http-bio-8085-exec-1 49626
+127.0.0.1 - - [19/Feb/2019:17:05:57 +0800] "GET /favicon.ico HTTP/1.0" 404 973 http-bio-8085-exec-2 4
+127.0.0.1 - - [19/Feb/2019:17:12:54 +0800] "GET /search.html?q=%E7%AC%94%E8%AE%B0%E6%9C%AC HTTP/1.0" 200 63275 http-bio-8085-exec-3 2038
+127.0.0.1 - - [19/Feb/2019:19:53:45 +0800] "GET /cart/cart.html HTTP/1.0" 404 949 http-bio-8085-exec-4 354
+127.0.0.1 - - [19/Feb/2019:20:22:22 +0800] "GET /images/loading-jd.gif HTTP/1.0" 200 166 http-bio-8085-exec-5 232
+127.0.0.1 - - [19/Feb/2019:20:24:02 +0800] "GET /search.html?q=%E7%AC%94%E8%AE%B0%E6%9C%AC HTTP/1.0" 200 63275 http-bio-8085-exec-6 2530
+127.0.0.1 - - [19/Feb/2019:20:24:19 +0800] "GET /search.html?q=%E7%AC%94%E8%AE%B0%E6%9C%AC HTTP/1.0" 200 63275 http-bio-8085-exec-7 351
+127.0.0.1 - - [19/Feb/2019:21:35:13 +0800] "GET /search.html?q=%E7%AC%94%E8%AE%B0%E6%9C%AC HTTP/1.0" 200 63275 http-bio-8085-exec-8 979

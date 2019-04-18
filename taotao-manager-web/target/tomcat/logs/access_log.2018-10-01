@@ -1,0 +1,15 @@
+127.0.0.1 - - [01/Oct/2018:15:08:45 +0800] "GET / HTTP/1.0" 200 2686 http-bio-8081-exec-1 1691
+127.0.0.1 - - [01/Oct/2018:15:08:46 +0800] "GET /css/taotao.css HTTP/1.0" 200 421 http-bio-8081-exec-4 549
+127.0.0.1 - - [01/Oct/2018:15:08:46 +0800] "GET /js/jquery-easyui-1.4.1/themes/icon.css HTTP/1.0" 200 2430 http-bio-8081-exec-3 547
+127.0.0.1 - - [01/Oct/2018:15:08:46 +0800] "GET /js/jquery-easyui-1.4.1/themes/default/easyui.css HTTP/1.0" 200 51951 http-bio-8081-exec-2 631
+127.0.0.1 - - [01/Oct/2018:15:08:46 +0800] "GET /js/jquery-easyui-1.4.1/locale/easyui-lang-zh_CN.js HTTP/1.0" 200 2487 http-bio-8081-exec-7 680
+127.0.0.1 - - [01/Oct/2018:15:08:48 +0800] "GET /js/common.js HTTP/1.0" 200 7963 http-bio-8081-exec-8 1708
+127.0.0.1 - - [01/Oct/2018:15:08:48 +0800] "GET /js/jquery-easyui-1.4.1/jquery.min.js HTTP/1.0" 200 95786 http-bio-8081-exec-5 2480
+127.0.0.1 - - [01/Oct/2018:15:08:48 +0800] "GET /js/jquery-easyui-1.4.1/jquery.easyui.min.js HTTP/1.0" 200 353674 http-bio-8081-exec-6 2488
+127.0.0.1 - - [01/Oct/2018:15:08:49 +0800] "GET /js/jquery-easyui-1.4.1/themes/default/images/tree_icons.png HTTP/1.0" 200 3115 http-bio-8081-exec-9 44
+127.0.0.1 - - [01/Oct/2018:15:08:49 +0800] "GET /js/jquery-easyui-1.4.1/themes/default/images/panel_tools.png HTTP/1.0" 200 852 http-bio-8081-exec-10 22
+127.0.0.1 - - [01/Oct/2018:15:08:49 +0800] "GET /js/jquery-easyui-1.4.1/themes/default/images/layout_arrows.png HTTP/1.0" 200 319 http-bio-8081-exec-3 9
+127.0.0.1 - - [01/Oct/2018:15:08:49 +0800] "GET /js/jquery-easyui-1.4.1/themes/default/images/blank.gif HTTP/1.0" 200 43 http-bio-8081-exec-1 53
+127.0.0.1 - - [01/Oct/2018:15:09:42 +0800] "GET /js/jquery-easyui-1.4.1/themes/default/images/tabs_icons.png HTTP/1.0" 200 150 http-bio-8081-exec-4 7
+127.0.0.1 - - [01/Oct/2018:15:09:42 +0800] "GET /favicon.ico HTTP/1.0" 404 997 http-bio-8081-exec-2 20
+127.0.0.1 - - [01/Oct/2018:15:10:36 +0800] "GET /rest/itemcat/all?callback=category.getDataService HTTP/1.1" 404 949 http-bio-8081-exec-7 5
